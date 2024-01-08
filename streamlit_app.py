@@ -1,4 +1,4 @@
-!pip install openai
+pip install openai
 import streamlit as st
 from langchain import OpenAI
 from langchain.docstore.document import Document
